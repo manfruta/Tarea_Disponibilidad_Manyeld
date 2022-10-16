@@ -1,2 +1,12 @@
-# Tarea_Disponibilidad_Manyeld
-Tarea
+# Tarea N°1 ARQUITECTURAS DE ALTA DISPONIBILIDAD
+# Integrantes:Diego Venegas y Marcelo Luengo.
+Para esta tarea se creo una aplicacion la cual se ejecuta desde un docker-compose, la cual hace enfoque a reseñas del videojuego Overwatch 2.
+
+# La instalacion
+Para construir los 3 contenedores(base de datos, frontend y backend) se tiene que usar el siguiente comando:
+```
+docker compose up
+```
+
+
+# Correr los contenedores
