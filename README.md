@@ -7,6 +7,11 @@ Para construir los 3 contenedores(base de datos, frontend y backend) se tiene qu
 ```
 docker compose up
 ```
+Para poder ingresar se tiene que ocupar el siguiente usuario:
+```
+Usuario: malba
+Contraseña: malba
+
+```
 
 
-# Correr los contenedores
